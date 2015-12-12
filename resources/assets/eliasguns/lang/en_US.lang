@@ -1,0 +1,12 @@
+itemGroup.eliasGunsTab=Elias Guns Tab
+
+item.smokeGrenade.name=Smoke Grenade
+item.grenade.name=Grenade
+item.flashGrenade.name=Flash Grenade (not working perfectly)
+item.stickyGrenade.name=Sticky Grenade
+item.gun.name=Gun
+item.gun_bullet.name=Gun Bullet
+item.gun_bullet_casing.name=Gun Bullet Casing
+item.desert_eagle.name=Desert Eagle
+item.desert_eagle_bullet.name=Desert Eagle Bullet (.50)
+item.desert_eagle_casing.name=Desert Eagle Bullet Casing

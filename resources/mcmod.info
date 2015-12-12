@@ -1,0 +1,15 @@
+[
+{
+  "modid": "eliasguns",
+  "name": "Elias's Guns Mod",
+  "description": "A new funny weapons mod",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["elias54"],
+  "logoFile": "/logo.png",
+  "screenshots": [],
+  "dependencies": []
+}
+]

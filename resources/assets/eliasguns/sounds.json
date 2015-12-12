@@ -1,0 +1,62 @@
+{
+  "grenade.bounce": {
+    "category": "hostile",
+    "sounds": [
+      "grenade/bounce"
+    ]
+  },
+  "grenade.smoke": {
+    "category": "hostile",
+    "sounds": [
+      "grenade/smoke"
+    ]
+  },
+  "grenade.smokebounce": {
+    "category": "hostile",
+    "sounds": [
+      "grenade/smokebounce"
+    ]
+  },
+  "grenade.flashexplodenear": {
+    "category": "hostile",
+    "sounds": [
+      "grenade/flashexplodenear"
+    ]
+  },
+  "grenade.flashexplode": {
+    "category": "hostile",
+    "sounds": [
+      "grenade/flashexplode"
+    ]
+  },
+  "guns.pistol.fire": {
+    "category": "hostile",
+    "sounds": [
+      "guns/pistol/fire"
+    ]
+  },
+  "guns.pistol.reload": {
+    "category": "hostile",
+    "sounds": [
+      "guns/pistol/reload"
+    ]
+  },
+  "guns.pistol.empty": {
+    "category": "hostile",
+    "sounds": [
+      "guns/pistol/empty"
+    ]
+  },
+  "guns.deagle.fire": {
+    "category": "hostile",
+    "sounds": [
+      "guns/deagle/fire"
+    ]
+  },
+  "guns.deagle.reload": {
+    "category": "hostile",
+    "sounds": [
+      "guns/deagle/reload"
+    ]
+  }
+}
