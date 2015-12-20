@@ -88,6 +88,7 @@ public class EliasGuns
 		EntityRegistry.registerModEntity(EntityGrenadeSmoke.class, "grenadeSmoke", smokeGrenadeProjectileID, this, 40, 1, true);
 		EntityRegistry.registerModEntity(EntityGrenade.class, "grenade", grenadeProjectileID, this, 40, 1, true);
 		EntityRegistry.registerModEntity(EntityBullet.class, "bullet", gun_bullet_projectileID, this, 40, 1, true);
+		EntityRegistry.registerModEntity(EntityDeagleBullet.class, "deagleBullet", deagle_bullet_projectileID, this, 40, 1, true);
 		EntityRegistry.registerModEntity(EntityGrenadeSticky.class, "stickGrenade", stickGrenadeProjectileID, this, 40, 1, true);
 	}
 }
